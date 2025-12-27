@@ -1,0 +1,17 @@
+{
+  "name": "nr-codex-api",
+  "version": "1.0.0",
+  "description": "NR_CODEX Free Fire Profile API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "start": "vercel start"
+  },
+  "dependencies": {
+    "vercel": "^32.4.1"
+  },
+  "keywords": ["freefire", "api", "profile", "items"],
+  "author": "NR_CODEX",
+  "license": "MIT"
+}
